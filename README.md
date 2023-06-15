@@ -1,2 +1,2 @@
-# .github
-DIGISO - About us
+# DIGISO - Digital Solutions
+About us
